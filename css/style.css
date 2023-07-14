@@ -11,7 +11,7 @@
 :root {
   --dark-utility-color: #333;
   --white-utility-color: #fff;
-  --primary-color: rgba(13, 110, 139, 0.55);
+  --primary-color: rgba(13, 110, 139, 0.65);
   --secondary-color: rgba(229, 148, 0, 0.9);
   --overlay-color: rgba(24, 39, 51, 0.87);
   --menu-speed: 0.75s;
